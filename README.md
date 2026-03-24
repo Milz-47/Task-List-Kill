@@ -157,7 +157,7 @@ Use these samples in a controlled lab to collect representative telemetry for de
 - Record command-line arguments and parent process chains to build high-fidelity detection rules.
 
 ## License
-Include a permissive license (e.g., MIT) or your preferred license. Example: MIT License — see LICENSE file.
+- GNU GENERAL PUBLIC LICENSE -- Version 3, 29 June 2007 — see LICENSE file.
 
 ## Contributing
 - Fork the repository, create a feature branch, and open a pull request.
