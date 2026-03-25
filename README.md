@@ -79,7 +79,7 @@ Example command-line with Microsoft cl (Developer Command Prompt):
   - Emulated behavior in TaskList.cpp: The sample’s GetServiceProcessMapping() already performs EnumServicesStatusExW and maps service display names to process IDs, producing the same per-PID services column as tasklist /SVC.
   - Detection note: SCM enumeration (OpenSCManager + EnumServicesStatusExW) is a distinct telemetry indicator you can detect and correlate with process enumeration.
 
-========================================================================================================================================================================================
+===================================================================================================================================================
 
 - taskkill /PID <pid>
   - What it does: Targets a process by its Process ID (PID) for termination.
