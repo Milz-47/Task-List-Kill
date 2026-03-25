@@ -2,7 +2,7 @@
 C++ code emulating Tasklist and Taskkill functions
 TaskList & TaskKill C++ Utilities
 
-A pair of lightweight utilities (and example source) demonstrating process and service enumeration (TaskList-like) and interactive process termination (TaskKill-like). These are example projects intended for learning, lab testing, and defensive telemetry development. Do not use these tools on systems you do not own or administer.
+A pair of utilities (and example source) demonstrating process and service enumeration (TaskList-like) and interactive process termination (TaskKill-like). These are example projects intended for learning, lab testing, and defensive development. Do not use these tools on systems you do not own or administer.
 
 ## Contents
 - TKILL2_V2.cpp — Interactive TaskKill-like utility that lists running processes (via tasklist) and runs taskkill for local or remote targets.
